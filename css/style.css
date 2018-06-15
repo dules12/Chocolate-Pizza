@@ -1,0 +1,18 @@
+
+div {
+  width:600px;
+  height:110px;
+  background-image:url('../img/list-bg.png');
+  background-size:100%;
+ }
+
+ul {
+  /* position:inline; */
+  float:left;
+  padding:50px;
+
+}
+ 
+li{
+ list-style-image: url('../img/uncheckbox.png');
+ }

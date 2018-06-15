@@ -1,1 +1,1 @@
-# chocolate-pizza
+This is a blank Template setting up an HTML document connected to an app.js, reset.css and style.css 
